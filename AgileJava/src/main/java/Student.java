@@ -1,7 +1,11 @@
 class Student {
+	String name;
+	
 	Student(String name){
+		this.name = name;
 	}	
+	
 	String getName(){
-		return "Jane Doe";
+		return name;
 	}
 }
