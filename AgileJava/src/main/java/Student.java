@@ -1,6 +1,3 @@
-//hi,
-// ---
-// test
 
 class Student {
 	String name;
